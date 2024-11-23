@@ -25,21 +25,18 @@ To set up the Mood Tracker on your local machine, follow these steps:
 Navigate to the project directory:
 
 ```bash
-Copy code
 cd mood-tracker
 Install the necessary dependencies:
 ```
 
 
 ```bash
-Copy code
 npm install
 Start the application:
 ```
 
 
 ```bash
-Copy code
 npm start
 ```
 
